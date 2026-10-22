@@ -1,4 +1,4 @@
-package com.target
+package com.lipefelizardo.target
 
 import android.os.Build
 import android.os.Bundle
